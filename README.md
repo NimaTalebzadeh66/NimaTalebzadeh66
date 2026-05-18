@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 -->🔭 I’m currently working on Photonic Crystals for Wireless Optical Power Transfer
 
 🌱 I’m currently extensively learning  Photonic Integrated Circuits
+
+
+[Patents & IP →](https://github.com/YOUR_USERNAME/patents)
