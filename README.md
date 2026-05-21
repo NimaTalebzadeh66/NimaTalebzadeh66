@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [Patents & IP →](https://github.com/YOUR_USERNAME/patents)
 
-[Patents & IP →]([https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025260199&_cid=P11-MPBAQP-13798-1]
+[Patents & IP →](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025260199&_cid=P11-MPBAQP-13798-1)
