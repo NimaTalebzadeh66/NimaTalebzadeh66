@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [Patents & IP_2 →](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024250094&_fid=CA471407242)
 
-[Patents & IP_3 →] (https://patentscope.wipo.int/search/en/detail.jsf?docId=US407344345&_cid=P11-MPBYAE-07107-1)
+[Patents & IP_3 →](https://patentscope.wipo.int/search/en/detail.jsf?docId=US407344345&_cid=P11-MPBYAE-07107-1)
