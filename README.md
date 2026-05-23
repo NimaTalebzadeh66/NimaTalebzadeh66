@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 🌱 I’m currently extensively learning  Photonic Integrated Circuits
 
 
-[Patents & IP →](https://github.com/YOUR_USERNAME/patents)
 
 [Patents & IP_1 →](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025260199&_cid=P11-MPBAQP-13798-1)
 
