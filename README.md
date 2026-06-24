@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->🔭 I’m currently working on Photonic Crystals for Wireless Optical Power Transfer
 
-🌱 I’m currently extensively learning  Photonic Integrated Circuits
+🌱 I’m currently working on the implimentation of Photonic Integrated Circuits on Wireless Optical Power Transfer...
 
 
 
