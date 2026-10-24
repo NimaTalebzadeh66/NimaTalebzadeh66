@@ -2,15 +2,11 @@
 # Hi, I'm Nima Talebzadeh, PhD 👋
 
 Photonics researcher working in **integrated photonics, optical simulation,
-beam steering, spectral engineering, and optical power systems**.
+subwavelength structures, spectral engineering, and optical power systems**.
 
 My GitHub includes simulation tools and design projects in:
 
-**Silicon Photonics • Optical Phased Arrays • PIC Design Automation •
-Thin-Film Optics • Optical Wireless Power Transfer**
-
-🔭 Currently working on photonic integrated circuits for optical power transfer
-and beam-steering applications.
+**Silicon Photonics • Thin-Film Optics • Optical Wireless Power Transfer**
 
 ## 🔬 Research & Engineering Interests
 
